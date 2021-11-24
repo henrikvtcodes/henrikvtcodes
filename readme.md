@@ -15,8 +15,15 @@
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+### Current Projects
+- [`website`](https://github.com/henrikvtcodes/website): My portfolio website. It's never truly done.
+- [`cardsforinhumanity`](https://github.com/henrikvtcodes/cardsforinhumanity): MMORPG Cards Against Humanity. It'll be fun.
+- [Zenerations](): Working to build out the digital infrastructure at Zenerations, a nonprofit org that I donate my time to.
+
+
+
 ### Stats & Discord
-<img src="https://github-readme-stats.vercel.app/api?username=henrikvtcodes&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=henrikvtcodes&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" align="middle"/>
 <a href="https://discord.com/users/380134323963297794">
-  <img src="https://lanyard-profile-readme.vercel.app/api/380134323963297794?idleMessage=Just%20chillin'%20at%20the%20moment..." align="center" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/380134323963297794?idleMessage=Just%20chillin'%20at%20the%20moment..." align="middle" />
 </a>
