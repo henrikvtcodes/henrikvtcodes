@@ -15,12 +15,8 @@
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### Github Stats
+### Stats & Discord
 ![](https://github-readme-stats.vercel.app/api?username=henrikvtcodes&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
-
-
----
-Come say hi on discord!
 <a href="https://discord.com/users/380134323963297794">
-  <img src="https://lanyard-profile-readme.vercel.app/api/380134323963297794?idleMessage=Just%20chillin'%20at%20the%20moment..." align="left" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/380134323963297794?idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
