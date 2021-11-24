@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Stats & Discord
-<img src="https://github-readme-stats.vercel.app/api?username=henrikvtcodes&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width=400/>
+<img src="https://github-readme-stats.vercel.app/api?username=henrikvtcodes&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" align="center"/>
 <a href="https://discord.com/users/380134323963297794">
-  <img src="https://lanyard-profile-readme.vercel.app/api/380134323963297794?idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/380134323963297794?idleMessage=Just%20chillin'%20at%20the%20moment..." align="center" />
 </a>
