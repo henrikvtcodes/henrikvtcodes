@@ -18,12 +18,15 @@
 ### Current Projects
 - [`website`](https://github.com/henrikvtcodes/website): My portfolio website. It's never truly done.
 - [`cardsforinhumanity`](https://github.com/henrikvtcodes/cardsforinhumanity): MMORPG Cards Against Humanity. It'll be fun.
-- [Zenerations](): Working to build out the digital infrastructure at Zenerations, a nonprofit org that I donate my time to.
+- [Zenerations](): Working to build out the digital infrastructure at Zenerations, a nonprofit org that I donate my time to.  
 
 
-
-### Stats & Discord
-<img src="https://github-readme-stats.vercel.app/api?username=henrikvtcodes&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" align="middle"/>
-<a href="https://discord.com/users/380134323963297794">
+<br>
+  <a href="https://discord.com/users/380134323963297794">
   <img src="https://lanyard-profile-readme.vercel.app/api/380134323963297794?idleMessage=Just%20chillin'%20at%20the%20moment..." align="middle" />
 </a>
+
+### Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=henrikvtcodes&theme=prussian&count_private=true&hide_border=true&line_height=25)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrikvtcodes&layout=compact&theme=prussian&count_private=true&hide_border=true&line_height=25)
