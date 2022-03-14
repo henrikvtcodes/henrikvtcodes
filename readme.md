@@ -52,9 +52,7 @@ Developer who works primarily in frontend (React, Next.js), some full-stack (Nod
 
 ### Current Projects
 - [`website`](https://github.com/henrikvtcodes/website): My portfolio website. It's never truly done.
-- [`cardsforinhumanity`](https://github.com/henrikvtcodes/cardsforinhumanity): MMORPG Cards Against Humanity. It'll be fun.
-- [Zenerations](): Working to build out the digital infrastructure at Zenerations, a nonprofit org that I donate my time to.  
-
+- [`consulting`](https://github.com/henrikvtcodes/consulting): Custom dashboard for my consulting business. Integrated with Stripe to handle customer payments.
 
 <br>
   <a href="https://discord.com/users/380134323963297794">
