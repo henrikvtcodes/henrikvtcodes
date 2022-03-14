@@ -1,8 +1,7 @@
 # Hello, I'm `henrikvtcodes`
-17yo American Frontend/Fullstack Developer  
+Developer who works primarily in frontend (React, Next.js), some full-stack (Node.js with Typescript, Express, NestJS), and FTC robotics (Java/Kotlin). Interested in embedded/iot systems (Arduino, NodeMCU, Lua) and systems programming (C++, Rust).
 
 ### Badges
-Varied experience in each.
 ###### Languages & Markup
 ![HELLO](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
