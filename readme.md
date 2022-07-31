@@ -55,10 +55,6 @@ Developer who works primarily in frontend (React, Next.js), some full-stack (Nod
 - [`website`](https://github.com/henrikvtcodes/website): My portfolio website. It's never truly done.
 - [`consulting`](https://github.com/henrikvtcodes/consulting): Custom dashboard for my consulting business. Integrated with Stripe to handle customer payments.
 
-<br>
-  <a href="https://discord.com/users/380134323963297794">
-  <img src="https://lanyard-profile-readme.vercel.app/api/380134323963297794?idleMessage=Just%20chillin'%20at%20the%20moment..." align="middle" />
-</a>
 
 ### Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=henrikvtcodes&theme=prussian&count_private=true&hide_border=true&line_height=25)
