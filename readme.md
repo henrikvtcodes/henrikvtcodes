@@ -54,6 +54,7 @@ Developer who works primarily in frontend (React, Next.js), some full-stack (Nod
 ### Current Projects
 - [`website`](https://github.com/henrikvtcodes/website): My portfolio website. It's never truly done.
 - [`consulting`](https://github.com/henrikvtcodes/consulting): Custom dashboard for my consulting business. Integrated with Stripe to handle customer payments.
+- [`lucidstorage`](https://github.com/lucidstorage): Open Source Object Storage API layer. Currently in closed development.
 
 
 ### Stats
