@@ -1,5 +1,5 @@
 # Hello, I'm `henrikvtcodes`
-Developer who works primarily in frontend (React, Next.js), some full-stack (Node.js with Typescript, Express, NestJS), and FRC robotics (Java/Kotlin/C++). Interested in embedded/iot systems (Arduino, NodeMCU, Lua) and systems programming (C++, Rust).
+Developer who works primarily in frontend (React, Next.js), some full-stack (Node.js with Typescript, Express, NestJS), and FRC robotics (Java/Kotlin). Interested in embedded/iot systems (Arduino, NodeMCU, Lua) and systems programming (C++, Rust).
 
 ### Badges
 ###### Languages & Markup
