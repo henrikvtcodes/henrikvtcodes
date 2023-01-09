@@ -1,5 +1,5 @@
 # Hello, I'm `henrikvtcodes`
-Developer who works primarily in frontend (React, Next.js), some full-stack (Node.js with Typescript, Express, NestJS), and FRC robotics (Java/Kotlin). Interested in embedded/iot systems (Arduino, NodeMCU, Lua) and systems programming (C++, Rust).
+I'm a fullstack web developer (React, Next.js, tRPC, Express, Nest.js) and FIRST Robotics Competition programmer (Java). I dabble in many things, from linux admin to hobby robotics (Arduino) as well. Also a big fan of trains and sustainable transportation.
 
 ### Badges
 ###### Languages & Markup
@@ -53,8 +53,8 @@ Developer who works primarily in frontend (React, Next.js), some full-stack (Nod
 
 ### Current Projects
 - [`website`](https://github.com/henrikvtcodes/website): My portfolio website. It's never truly done.
-- [`consulting`](https://github.com/henrikvtcodes/consulting): Custom dashboard for my consulting business. Integrated with Stripe to handle customer payments.
-- [`lucidstorage`](https://github.com/lucidstorage): Open Source Object Storage API layer. Currently in closed development.
+- [`lucidstorage`](https://github.com/lucidstorage): Object Storage API layer. Currently in closed development.
+- [FRC Robotics](https://github.com/frc9015): Programmer on FRC team 9015: Questionable Engineering. We are currently working on code for the 2023 season, Charged Up.
 
 
 ### Stats
