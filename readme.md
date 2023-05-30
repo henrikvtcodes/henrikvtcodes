@@ -53,8 +53,7 @@ I'm a fullstack web developer (React, Next.js, tRPC, Express, Nest.js). I dabble
 
 ### Current Projects
 - [`website`](https://github.com/henrikvtcodes/website): My portfolio website. It's never truly done.
-- [`lucidstorage`](https://github.com/lucidstorage): Object Storage API layer. Currently in closed development.
-- [FRC Robotics](https://github.com/frc9015): Programmer on FRC team 9015: Questionable Engineering. We are currently working on code for the 2023 season, Charged Up.
+- [xkcd.social](https://github.com/henrikvtcodes/website): [xkcd.social](xkcd.social) is a social me(me)dia platform for sharing your favorite xkcd comics.
 
 
 ### Stats
