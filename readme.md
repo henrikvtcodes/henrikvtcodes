@@ -53,7 +53,7 @@ I'm a fullstack web developer (React, Next.js, tRPC, Express, Nest.js). I dabble
 
 ### Current Projects
 - [`website`](https://github.com/henrikvtcodes/website): My portfolio website. It's never truly done.
-- [xkcd.social](https://github.com/henrikvtcodes/website): [xkcd.social](xkcd.social) is a social me(me)dia platform for sharing your favorite xkcd comics.
+- [`xkcd.social`](https://github.com/henrikvtcodes/website): [xkcd.social](https://xkcd.social) is a social me(me)dia platform for sharing your favorite xkcd comics.
 
 
 ### Stats
