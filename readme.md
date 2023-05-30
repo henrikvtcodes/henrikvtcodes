@@ -1,5 +1,5 @@
 # Hello, I'm `henrikvtcodes`
-I'm a fullstack web developer (React, Next.js, tRPC, Express, Nest.js) and FIRST Robotics Competition programmer (Java). I dabble in many things, from linux admin to hobby robotics (Arduino) as well. Also a big fan of trains and sustainable transportation.
+I'm a fullstack web developer (React, Next.js, tRPC, Express, Nest.js). I dabble in many things, from linux admin to hobby robotics (Arduino) as well. Also a big fan of trains and sustainable transportation.
 
 ### Badges
 ###### Languages & Markup
