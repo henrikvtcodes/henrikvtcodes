@@ -1,7 +1,5 @@
 # Hello, I'm `henrikvtcodes`
-
-I am a developer of many things at once, poorly. Also studying Computer Science. Primarily proficient in frontend/fullstack web development, but I also dabble in low level programming, system administration/homelabbing, and embedded software. I am also a Programming & Control Systems mentor on FRC team 9101, [Green Mountain Robotics](https://github.com/greenmountainrobotics).
-
+I like to make useful stuff. Also studying Computer Science. Primarily proficient in frontend/fullstack web development, but I also dabble in low level programming, system administration/homelabbing, and embedded software. I am also a Programming & Control Systems mentor on FRC team 9101, [Green Mountain Robotics](https://github.com/greenmountainrobotics).
 ### `/using`
 
 | Category         | Tool                                                                                                            |
