@@ -23,3 +23,7 @@ I like to make useful stuff. Also studying Computer Science. Primarily proficien
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikvtcodes&layout=compact&theme=prussian&count_private=true&hide_border=true&line_height=25" />
 
 </div>
+
+$$
+\sigma
+$$
