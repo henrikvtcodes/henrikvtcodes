@@ -1,5 +1,7 @@
 # Hello, I'm `henrikvtcodes`
-I like to make useful stuff. Also studying Computer Science. Primarily proficient in frontend/fullstack web development, but I also dabble in low level programming, system administration/homelabbing, and embedded software. My languages of choice are typically Typescript & Go, with some Nix, Rust, Python, C++, and Java sprinkled in here and there.
+I like to make useful stuff. These days I bounce around between full stack web development, infrastructure code, and system administration/network engineering. My languages of choice are typically Typescript & Go, with some Nix, Rust, Python, C++, and Java sprinkled in here and there.
+
+At the University of Vermont, I study Computer Science and am the President of the UVM CS Crew (student club).
 
 I am also a Programming & Control Systems mentor on FRC team 9101, [Green Mountain Robotics](https://github.com/greenmountainrobotics).
 
